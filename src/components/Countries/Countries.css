@@ -1,0 +1,9 @@
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 900;
+}
